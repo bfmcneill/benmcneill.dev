@@ -1,3 +1,6 @@
 [submodule "themes/Flex"]
 	path = themes/Flex
 	url = https://github.com/alexandrevicenzi/Flex.git
+[submodule "plugins/pelican-cover-image"]
+	path = plugins/pelican-cover-image
+	url = https://github.com/peterdesmet/pelican-cover-image.git

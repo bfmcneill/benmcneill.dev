@@ -1,0 +1,7 @@
+pelican==4.2.0 # https://pypi.org/project/pelican/
+Markdown==3.2.2 # https://pypi.org/project/Markdown/
+beautifulsoup4==4.9.1 # https://pypi.org/project/beautifulsoup4/
+pelican-autostatic==0.2.2 # https://pypi.org/project/pelican-autostatic/
+
+pylint==2.5.3 # pylint
+black==19.10b0 #https://pypi.org/project/black/

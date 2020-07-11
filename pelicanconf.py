@@ -9,7 +9,8 @@ SITETITLE = SITENAME
 
 
 RELATIVE_URLS = False
-SITEURL = "http://localhost:8000"
+# SITEURL = "http://localhost:8000"
+SITEURL = "https://sad-raman-4ee550.netlify.app/"
 SITESUBTITLE = "Engineer | Software Developer | Data Scientist"
 
 # DISPLAY_PAGES_ON_MENU = True
